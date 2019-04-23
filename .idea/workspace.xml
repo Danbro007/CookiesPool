@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="144ac6bc-b2b1-4bcc-a6f2-4fb6d55fa06f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/account_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/account_info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookiepool/importer.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepool/importer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookiepool/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepool/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,13 +16,14 @@
     <SUITE FILE_PATH="coverage/CookiePool$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1555995548536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
     <SUITE FILE_PATH="coverage/CookiePool$db.coverage" NAME="db Coverage Results" MODIFIED="1555995322946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
     <SUITE FILE_PATH="coverage/CookiePool$tester.coverage" NAME="tester Coverage Results" MODIFIED="1556006047351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
-    <SUITE FILE_PATH="coverage/CookiePool$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1555990880413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool/cookie_getters/weibo" />
+    <SUITE FILE_PATH="coverage/CookiePool$run.coverage" NAME="run Coverage Results" MODIFIED="1556007895411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CookiePool$test.coverage" NAME="test Coverage Results" MODIFIED="1555986536325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
-    <SUITE FILE_PATH="coverage/CookiePool$settings.coverage" NAME="settings Coverage Results" MODIFIED="1555642744718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
     <SUITE FILE_PATH="coverage/CookiePool$importer.coverage" NAME="importer Coverage Results" MODIFIED="1556006823006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
     <SUITE FILE_PATH="coverage/CookiePool$generator.coverage" NAME="generator Coverage Results" MODIFIED="1555992158825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
-    <SUITE FILE_PATH="coverage/CookiePool$YDMHTTPDemo3_x.coverage" NAME="YDMHTTPDemo3.x Coverage Results" MODIFIED="1555659725745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
     <SUITE FILE_PATH="coverage/CookiePool$YMD.coverage" NAME="YMD Coverage Results" MODIFIED="1555663099964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
+    <SUITE FILE_PATH="coverage/CookiePool$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1555990880413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool/cookie_getters/weibo" />
+    <SUITE FILE_PATH="coverage/CookiePool$settings.coverage" NAME="settings Coverage Results" MODIFIED="1555642744718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
+    <SUITE FILE_PATH="coverage/CookiePool$YDMHTTPDemo3_x.coverage" NAME="YDMHTTPDemo3.x Coverage Results" MODIFIED="1555659725745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
     <SUITE FILE_PATH="coverage/CookiePool$scheduler.coverage" NAME="scheduler Coverage Results" MODIFIED="1556006551004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiepool" />
   </component>
   <component name="FileEditorManager">
@@ -77,20 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account_info.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/account_info.txt">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="52" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="100">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="importer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="importer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cookiepool/importer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="20">
+              <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -159,6 +158,7 @@
         <option value="$PROJECT_DIR$/cookiepool/settings.py" />
         <option value="$PROJECT_DIR$/account_info.txt" />
         <option value="$PROJECT_DIR$/cookiepool/importer.py" />
+        <option value="$PROJECT_DIR$/run.py" />
       </list>
     </option>
   </component>
@@ -188,11 +188,6 @@
             <path>
               <item name="CookiePool" type="b2602c69:ProjectViewProjectNode" />
               <item name="CookiePool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CookiePool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CookiePool" type="462c0819:PsiDirectoryNode" />
-              <item name="cookiepool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.importer">
+  <component name="RunManager" selected="Python.run">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookiePool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,6 +262,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CookiePool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="scheduler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookiePool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,25 +295,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookiepool/scheduler.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CookiePool" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookiepool" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookiepool/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,18 +321,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.tester" />
-      <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.scheduler" />
       <item itemvalue="Python.api" />
       <item itemvalue="Python.importer" />
+      <item itemvalue="Python.run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
         <item itemvalue="Python.importer" />
         <item itemvalue="Python.scheduler" />
         <item itemvalue="Python.api" />
         <item itemvalue="Python.tester" />
-        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -363,9 +358,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2795699" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.546595" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.07692308" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16087309" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16087309" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -416,16 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cookiepool/generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cookiepool/tester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -672,6 +657,30 @@
     <entry file="file://$PROJECT_DIR$/cookiepool/cookie_getters/weibo/captcha.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/cookiepool/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiepool/importer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="52" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cookiepool/scheduler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -685,27 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookiepool/settings.py">
+    <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/account_info.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="52" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookiepool/importer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
