@@ -12,6 +12,9 @@ def account_set():
             username = data[0]
             password = data[1]
             print("正在把账号%s存入redis数据库中" % username)
-            conn.set(username, password)
+            if not conn.get(username):
+                conn.set(username, password)
+
+
 if __name__ == '__main__':
     account_set()

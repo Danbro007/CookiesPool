@@ -23,7 +23,10 @@ CAPTCHA_DIR = os.path.join(BASE_DIR, "cookiepool", "cookie_getters", "weibo", "c
 CAPTCHA_CODETYPE = 1005
 PARSE_CAPTCHA_TIMEOUT = 60
 # 云打码账号密码配置#
-
+YDM_USERNAME = 'shan9w'
+YDM_PASSWORD = 'shan_52902003'
+YDM_APPID = 7462
+YDM_APPKEY = '	c4e75194317c3fc4450129ba8cfb1775'
 # selenium浏览器#
 BROWSER_TYPE = "Firefox"
 # cookies测试开关#

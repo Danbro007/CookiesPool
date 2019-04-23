@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="144ac6bc-b2b1-4bcc-a6f2-4fb6d55fa06f" name="Default" comment="" />
+    <list default="true" id="144ac6bc-b2b1-4bcc-a6f2-4fb6d55fa06f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/account_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/account_info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookiepool/importer.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepool/importer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookiepool/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepool/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cookiepool/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="142">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -75,14 +79,21 @@
       </file>
       <file leaf-file-name="account_info.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/account_info.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="52" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="importer.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="importer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cookiepool/importer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="280">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,6 +137,9 @@
       <find>REDIS_PORT</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -142,9 +156,9 @@
         <option value="$PROJECT_DIR$/cookiepool/api.py" />
         <option value="$PROJECT_DIR$/cookiepool/generator.py" />
         <option value="$PROJECT_DIR$/cookiepool/scheduler.py" />
-        <option value="$PROJECT_DIR$/cookiepool/importer.py" />
-        <option value="$PROJECT_DIR$/account_info.txt" />
         <option value="$PROJECT_DIR$/cookiepool/settings.py" />
+        <option value="$PROJECT_DIR$/account_info.txt" />
+        <option value="$PROJECT_DIR$/cookiepool/importer.py" />
       </list>
     </option>
   </component>
@@ -157,11 +171,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -346,11 +361,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27906978" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2795699" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.07692308" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16087309" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16087309" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -654,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookiepool/importer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cookiepool/cookie_getters/weibo/captcha.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -677,13 +685,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/account_info.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cookiepool/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="142">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="52" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiepool/importer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
