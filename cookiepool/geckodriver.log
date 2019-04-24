@@ -1871,3 +1871,1557 @@ JavaScript error: http://my.sina.com.cn/js/my/fo.js?v=1.01, line 192: TypeError:
 1556007567925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1556007570464	Marionette	INFO	Listening on port 8833
 1556007570546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556008088917	Marionette	INFO	Stopped listening on port 8833
+[Child 28092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Child 21732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21732, Chrome[Parent 26460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556007699357	Marionette	INFO	Listening on port 9199
+1556007699605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556008091039	Marionette	INFO	Stopped listening on port 9199
+[Parent 9916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5868, Ch[rCohild 16748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 167[Parent 9916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+enshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556007830452	Marionette	INFO	Listening on port 9469
+1556007830847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556008092561	Marionette	INFO	Stopped listening on port 9469
+[Parent 22864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16044, Chr[oChild 26252, Chrome_ChildThread] WARme_ChiNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+hots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556007963265	Marionette	INFO	Listening on port 10004
+1556007963732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556008094724	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.fNsHv6VgHX3z"
+*** You are running in headless mode.
+1556008095755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556008095755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556008095755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556008098206	Marionette	INFO	Listening on port 10659
+1556008098284	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556008760107	Marionette	INFO	Stopped listening on port 10659
+[Parent 20364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 31032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3103reenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556008229762	Marionette	INFO	Listening on port 11229
+1556008230024	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556008754745	Marionette	INFO	Stopped listening on port 11229
+[Child 20200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20200, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 7608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+xtension permission: about:reader*
+1556008360209	Marionette	INFO	Listening on port 11823
+1556008360420	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556008756079	Marionette	INFO	Stopped listening on port 11823
+[Parent 26344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 278creenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556008491952	Marionette	INFO	Listening on port 12404
+1556008492294	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556008757350	Marionette	INFO	Stopped listening on port 12404
+[Child 15732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel[Chil_wid 2723n.c6, Chrome_Chc,ildThre linead] 332 WARNING
+: pipe error[Chi: 109:ld  file1573 z:/build/2, Cbuildhrom/src/e_Chipc/chromiumild/src/Threadchrom] WAe/commRNINon/ipcG: p_chanipe nel_werrin.cor:c, line 332
+[C 109:h file iz:/bluild/buid 27ld/2src3/ipc6, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+sion permission: resource://pdf.js/
+1556008620079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556008623379	Marionette	INFO	Listening on port 13011
+1556008623684	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556008758652	Marionette	INFO	Stopped listening on port 13011
+[Child 26444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2[Parent 21868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 842n.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556008754161	Marionette	INFO	Listening on port 13636
+1556008754422	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556009541663	Marionette	INFO	Stopped listening on port 13636
+[Parent 2988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18964,[Child 23364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chromedf.js/
+1556008888144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556008890197	Marionette	INFO	Listening on port 14238
+1556008890658	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556009536217	Marionette	INFO	Stopped listening on port 14238
+[Child 14412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14412, Chrome_ChildThread] WARNING: pipe in headless mode.
+1556009016893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556009016893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009016893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009019889	Marionette	INFO	Listening on port 14810
+1556009020162	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556009537439	Marionette	INFO	Stopped listening on port 14810
+[Parent 14860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 29848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 298eenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556009146376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009146376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009149027	Marionette	INFO	Listening on port 1416
+1556009149290	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556009538449	Marionette	INFO	Stopped listening on port 1416
+[Child 4412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4412, Chrome_ChildThread] WARNI[Parent 29316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ding manifest: Invalid extension permission: mozillaAddons
+1556009276640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009276640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009281486	Marionette	INFO	Listening on port 2012
+1556009281618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556009539471	Marionette	INFO	Stopped listening on port 2012
+[Parent 19416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26764, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 19416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ing manifest: Invalid extension permission: resource://pdf.js/
+1556009409106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009413787	Marionette	INFO	Listening on port 2646
+1556009413854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556009540561	Marionette	INFO	Stopped listening on port 2646
+[Parent 6780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 271556009545984	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.QbNtStbvH1yS"
+*** You are running in headless mode.
+1556009547363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556009547364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009547364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009549922	Marionette	INFO	Listening on port 3201
+1556009550343	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010193873	Marionette	INFO	Stopped listening on port 3201
+[Parent 25332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 31352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3135eenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556009676643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009676643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009679798	Marionette	INFO	Listening on port 3785
+1556009680074	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010194817	Marionette	INFO	Stopped listening on port 3785
+[Child 12324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 123[Parent 16856, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 16856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ion.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009806446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009808617	Marionette	INFO	Listening on port 4372
+1556009808771	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010195750	Marionette	INFO	Stopped listening on port 4372
+d extension permission: mozillaAddons
+1556009935503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556009935503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556009937648	Marionette	INFO	Listening on port 4943
+1556009938156	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010196752	Marionette	INFO	Stopped listening on port 4943
+[Parent 30472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12844, Chrome_ChildThread: Reading manifest: Invalid extension permission: mozillaAddons
+1556010065075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556010065075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556010068090	Marionette	INFO	Listening on port 5512
+1556010068247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556010198772	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.UqvvA6gSoXb7"
+*** You are running in headless mode.
+1556010200295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556010200295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556010200295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556010202555	Marionette	INFO	Listening on port 6160
+1556010202861	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010858605	Marionette	INFO	Stopped listening on port 6160
+[Child 18988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[Child 21556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21556, Chrome_Chil[Parent 23528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ssion
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010854406	Marionette	INFO	Stopped listening on port 6729
+[Parent 30704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18536, Chrome_Childa.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556010461087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556010461087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556010463415	Marionette	INFO	Listening on port 7299
+1556010463911	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010855394	Marionette	INFO	Stopped listening on port 7299
+[Parent 17552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10252, Chrome[Parent 17552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556010590337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556010593617	Marionette	INFO	Listening on port 7867
+1556010593680	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010856417	Marionette	INFO	Stopped listening on port 7867
+[Child 22200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Child 18952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18952, Chrome_ChildThrrt 8440
+1556010724436	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556010857449	Marionette	INFO	Stopped listening on port 8440
+[Parent 4388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556010851722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556010854089	Marionette	INFO	Listening on port 9078
+1556010854315	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556011643568	Marionette	INFO	Stopped listening on port 9078
+[Parent 11116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22988, Chrhots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556010989174	Marionette	INFO	Listening on port 9661
+1556010989500	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556011634017	Marionette	INFO	Stopped listening on port 9661
+[Child 30112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556011118220	Marionette	INFO	Listening on port 10326
+1556011118576	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556011635444	Marionette	INFO	Stopped listening on port 10326
+[Child 916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 916, Chrome_Chil[dThread] WARNIChild 19340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Parent 18288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556011638661	Marionette	INFO	Stopped listening on port 10940
+[Parent 22960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 22960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556011640075	Marionette	INFO	Stopped listening on port 11591
+[Parent 1264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+\\rust_mozprofile.OZot3A8FwJVZ"
+*** You are running in headless mode.
+1556011509077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556011509077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556011509077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556011511302	Marionette	INFO	Listening on port 12256
+1556011511638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556011641516	Marionette	INFO	Stopped listening on port 12256
+[Child 18768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l1556011649284	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.wY28j9QBw0Ov"
+*** You are running in headless mode.
+1556011650901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556011650901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556011650902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556011654201	Marionette	INFO	Listening on port 13005
+1556011654611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556012302483	Marionette	INFO	Stopped listening on port 13005
+[Parent 19724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Parent 19724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1783937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556012304017	Marionette	INFO	Stopped listening on port 13651
+[Child 28284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28[Child 25924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 162678	Marionette	INFO	Listening on port 14356
+1556011913102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556012305585	Marionette	INFO	Stopped listening on port 14356
+[Child 31624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 31624, Chrome_Ch[Child 24072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24ading manifest: Invalid extension permission: mozillaAddons
+1556012040343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556012040344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556012044040	Marionette	INFO	Listening on port 14971
+1556012044082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556012307099	Marionette	INFO	Stopped listening on port 14971
+[Parent 13424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 287[Parent 13424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+g	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556012172087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556012176374	Marionette	INFO	Listening on port 1624
+1556012176679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556012310311	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.YhoYyKTUfMDj"
+*** You are running in headless mode.
+1556012311977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556012311977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556012311978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556012315751	Marionette	INFO	Listening on port 2290
+1556012316126	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556013723367	Marionette	INFO	Stopped listening on port 2290
+[Child 23184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 28320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+n 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556012446000	Marionette	INFO	Listening on port 2926
+1556012446303	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556013715210	Marionette	INFO	Stopped listening on port 2926
+[Parent 12240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+rg': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556012572668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556012575390	Marionette	INFO	Listening on port 3545
+1556012575886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8830202424253863, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.42249625418893577, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.9722111733380043, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.3644552931200765, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.4041625734503034, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.3943776225649154, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8051532378104235, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.0595859402373905, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.2557072100386252, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.39252527558841477, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6768888368656123, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/fo.js?v=1.01, line 192: TypeError: data is undefined
+1556013716249	Marionette	INFO	Stopped listening on port 3545
+[Child 27380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 989[Parent 21884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+tension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556013242542	Marionette	INFO	Listening on port 6631
+1556013242759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.1703288881387358, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.7827473024249607, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.7688526650569242, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.672856938264385, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.2558923928924869, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.29324355935633095, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.3428848231911986, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/fo.js?v=1.01, line 192: TypeError: data is undefined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.40399651940957626, line 1: SyntaxError: expected expression, got '<'
+1556013719941	Marionette	INFO	Stopped listening on port 6631
+[Child 8096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556013587051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556013589323	Marionette	INFO	Listening on port 7808
+1556013589351	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556013724392	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.vf8IrsoMIZtB"
+*** You are running in headless mode.
+1556013725668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556013725669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556013725669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556013727731	Marionette	INFO	Listening on port 8145
+1556013727782	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556014510246	Marionette	INFO	Stopped listening on port 8145
+[Child 18948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18948, Chrome_ChildThread] WARNING: pipe[Child 21712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 217[Parent 14368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+8471
+1556013856923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556014502086	Marionette	INFO	Stopped listening on port 8471
+[Child 15244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 28896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1434ARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556013984297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556013987890	Marionette	INFO	Listening on port 8787
+1556013988331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556014503619	Marionette	INFO	Stopped listening on port 8787
+[Child 14724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 147file.AjBMZsST9Zif"
+*** You are running in headless mode.
+1556014115828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556014115828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556014115829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556014119601	Marionette	INFO	Listening on port 9108
+1556014119767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556014504789	Marionette	INFO	Stopped listening on port 9108
+[Child 15812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 158[Parent 15628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+reenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556014247337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556014247337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556014249453	Marionette	INFO	Listening on port 9455
+1556014249936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556014506086	Marionette	INFO	Stopped listening on port 9455
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+s session
+1556014508092	Marionette	INFO	Stopped listening on port 9798
+[Child 1760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1760, Chrome_[Child 30224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Parent 25380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556014514787	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.Ya86uihYcRaA"
+*** You are running in headless mode.
+1556014516435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556014516435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556014516436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556014520523	Marionette	INFO	Listening on port 10286
+1556014521073	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556015170889	Marionette	INFO	Stopped listening on port 10286
+[Child 28156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ Reading manifest: Invalid extension permission: resource://pdf.js/
+1556014648776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556014652272	Marionette	INFO	Listening on port 10598
+1556014652388	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556015172367	Marionette	INFO	Stopped listening on port 10598
+[Parent 24324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Parent 24324, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 24324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[nette	INFO	Listening on port 10975
+1556014784006	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556015173473	Marionette	INFO	Stopped listening on port 10975
+[Child 28244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 22608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+tension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556014913983	Marionette	INFO	Listening on port 11267
+1556014914324	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556015174897	Marionette	INFO	Stopped listening on port 11267
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15840, Chrome_Chlla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556015041331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556015041331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556015044586	Marionette	INFO	Listening on port 11718
+1556015044616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556015177495	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.QOMOyVcEvjnL"
+*** You are running in headless mode.
+1556015179016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556015179017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556015179017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556015181814	Marionette	INFO	Listening on port 12042
+1556015182079	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1556069751645	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.c2i5xspLbPgm"
+*** You are running in headless mode.
+1556069754517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556069754518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556069754518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556069759094	Marionette	INFO	Listening on port 9579
+1556069759311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1556074094390	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.cUnpIcZ2ey15"
+*** You are running in headless mode.
+1556074096124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074096124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074096124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074099294	Marionette	INFO	Listening on port 4354
+1556074099405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6392223438023229, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.42409515181075275, line 1: SyntaxError: expected expression, got '<'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 337: NS_ERROR_NOT_INITIALIZED: 
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+1556074198758	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.JHQjUYoLGlBD"
+*** You are running in headless mode.
+1556074200250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074200251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074200251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074203501	Marionette	INFO	Listening on port 4648
+1556074203615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 337: NS_ERROR_NOT_INITIALIZED: 
+1556074354486	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.DHTuxikLZqNb"
+*** You are running in headless mode.
+1556074355979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556074355979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556074355979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556074358785	Marionette	INFO	Listening on port 5010
+1556074358882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.06129441800504931, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8573487233690814, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5416860833818157, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556074469062	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lJavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8889248131872624, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5094685208545323, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.7781549055781262, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.9718449345877127, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6555377614018164, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.845103926260745, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6935251849887692, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.041462979206336015, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6706965554588488, line 1: SyntaxError: expected expression, got '<'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5660839454498798, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.04092899411356343, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.10748428739094884, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.7625866638010702, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.04261639204311274, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.4319925717582732, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8487852506159382, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.34820356226046834, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5214489982797199, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6392655823397073, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.35072964030798603, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556075030964	Marionette	INFO	Stopped listening on port 5407
+[Child 21836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 1336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556076629348	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.mYsh1ZWti23q"
+*** You are running in headless mode.
+1556076630618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556076630618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556076630619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556076633270	Marionette	INFO	Listening on port 10960
+1556076633449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+1556076727174	Marionette	INFO	Stopped listening on port 10960
+[Child 21296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21296, Chrome_ChildT[Parent 19140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1556076850031	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.MuQ8u3jUEwdt"
+*** You are running in headless mode.
+1556076851079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556076851079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556076851079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556076853418	Marionette	INFO	Listening on port 11518
+1556076853888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+1556076959123	Marionette	INFO	Stopped listening on port 11518
+[Child 1100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1100, Chrome_ChildTh[Parent 30424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556076994192	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.z3qX38H1kCBa"
+*** You are running in headless mode.
+1556076995585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556076995586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556076995586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556076999057	Marionette	INFO	Listening on port 11938
+1556076999447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1556077418764	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.dwfMl3p6Dl7O"
+*** You are running in headless mode.
+1556077419734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077419735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077419735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077494534	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.U6FPez3QN95H"
+1556077495480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077495480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077495480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077498650	Marionette	INFO	Listening on port 13180
+1556077498893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+1556077645009	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.Tx3UlYz0nnRy"
+1556077646265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077646265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077646265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077650199	Marionette	INFO	Listening on port 13584
+1556077650561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 14900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30272, 1556077708233	Marionette	INFO	Stopped listening on port 13584
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+GPU 163
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556077714323	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.MSc5flBuASof"
+1556077715409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077715410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077715410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077718430	Marionette	INFO	Listening on port 13782
+1556077718753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+1556077796777	Marionette	INFO	Stopped listening on port 13782
+[Parent 31640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 19248,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556077816435	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.oE0JYKFDgDRx"
+1556077817818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077817818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077817819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077821768	Marionette	INFO	Listening on port 14109
+1556077821930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556077825993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Parent 26140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556077828696	Marionette	INFO	Stopped listening on port 14109
+[GPU 12444, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556077844667	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.UEc62vTlt0Mu"
+1556077846166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077846166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077846166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077925681	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.varFdKVPJRxq"
+1556077926874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556077926874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556077926874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556077930888	Marionette	INFO	Listening on port 14354
+1556077931179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+1556078003372	Marionette	INFO	Stopped listening on port 14354
+[Child 23080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23080, Chconsole.error: (new Error("Connection closed, pending request to server1.conn0.child1/inspectorActor3, type getPageStyle failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol.js:1415:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol.js:1539:14\n_getPageStyle@resource://devtools/client/inspector/inspector.js:355:12\ninit@resource://devtools/client/inspector/inspector.js:164:7\nopen@resource://devtools/client/inspector/panel.js:12:12\nonLoad@resource://devtools/client/framework/toolbox.js:1804:21\nobserve@resource://gre/modules/AsyncShutdown.jsm:533:9\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3358:3\ndespatch@chrome://marionette/content/server.js:290:20\nexecute@chrome://marionette/content/server.js:263:11\nonPacket/<@chrome://marionette/content/server.js:236:15\nonPacket@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n", "resource://devtools/shared/protocol.js", 1328))
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/domwalker47, type querySelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol.js:1415:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol.js:1539:14\nquerySelector@resource://devtools/shared/fronts/inspector.js:157:12\n_getDefaultNodeForSelection/<@resource://devtools/client/inspector/inspector.js:395:14\nprocess@resource://gre/modules/Promise-backend.js:924:23\nwalkerLoop@resource://gre/modules/Promise-backend.js:808:29\nscheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:744:11\nobserve@resource://gre/modules/AsyncShutdown.jsm:533:9\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3358:3\ndespatch@chrome://marionette/content/server.js:290:20\nexecute@chrome://marionette/content/server.js:263:11\nonPacket/<@chrome://marionette/content/server.js:236:15\nonPacket@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n", "resource://devtools/shared/protocol.js", 1328))
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/cssPropertiesActor12, type getCSSDatabase failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol.js:1415:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol.js:1539:14\ninitCssProperties@resource://devtools/shared/fronts/css-properties.js:240:20\nobserve@resource://gre/modules/AsyncShutdown.jsm:533:9\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3358:3\ndespatch@chrome://marionette/content/server.js:290:20\nexecute@chrome://marionette/content/server.js:263:11\nonPacket/<@chrome://marionette/content/server.js:236:15\nonPacket@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n", "resource://devtools/shared/protocol.js", 1328))
+console.error: (new TypeError("this.toolbox.target is null", "resource://devtools/client/inspector/inspector.js", 289))
+Handler function threw an exception: TypeError: this.docShell is null
+Stack: get window@resource://devtools/server/actors/targets/browsing-context.js:339:5
+get url@resource://devtools/server/actors/source.js:179:7
+form@resource://devtools/server/actors/source.js:208:7
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:1885:17
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 339, column: 5
+console.error: "Handler function threw an exception: TypeError: this.docShell is null\nStack: get window@resource://devtools/server/actors/targets/browsing-context.js:339:5\nget url@resource://devtools/server/actors/source.js:179:7\nform@resource://devtools/server/actors/source.js:208:7\nonNewSourceEvent/<@resource://devtools/server/actors/thread.js:1885:17\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 339, column: 5"
+[Parent 20448,Handler function threw an exception: TypeError: this.docShell is null
+Stack: get window@resource://devtools/server/actors/targets/browsing-context.js:339:5
+get url@resource://devtools/server/actors/source.js:179:7
+form@resource://devtools/server/actors/source.js:208:7
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:1885:17
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 339, column: 5
+ Gecko_IOThread] WARNINconsole.error: "Handler function threw an exception: TypeError: this.docShell is null\nStack: get window@resource://devtools/server/actors/targets/browsing-context.js:339:5\nget url@resource://devtools/server/actors/source.js:179:7\nform@resource://devtools/server/actors/source.js:208:7\nonNewSourceEvent/<@resource://devtools/server/actors/thread.js:1885:17\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 339, column: 5"
+G: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+JavaScript error: resource://devtools/server/actors/storage.js, line 261: TypeError: this.storageActor is null
+[Child 16640, Chrome_ChildThread] WAR[NPIaNG: rent 20448, Gecko_IOThread] Wpipe erArRoNr:I N1G0:9 :p ifpiel ee z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332r
+ror: 109: file z:/build/b[uCihlidl/ds r1c6/6i4p0c,/ cChhrroommieu_mC/hsirlcd/Tchhrreoamde]/ cWoAmRmNoInN/Gi:p cp_icphea nenrerlo_rw:i n2.3c2: file z:/build/build/src/ipc/chrc, linomiue 332
+m/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3888,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556078236474	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.r7h4TlKgwCkO"
+1556078237888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556078237889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556078237889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556078241177	Marionette	INFO	Listening on port 1269
+1556078241523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: resource://devtools/client/framework/devtools.js, line 702: TypeError: inspector.selection is undefined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556078298783	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.7313136363369032, line 1: SyntaxError: expected expression, got '<'
+1556078312595	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.08145749071975084, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 119: TypeError: this.openedPopup.closePopup is not a function
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 119: TypeError: this.openedPopup.closePopup is not a function
+[Child 28988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 30800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 301556078394517	Marionette	INFO	Stopped listening on port 1269
+[GPU 291
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+92, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556078400445	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.YZxEV9vo51FQ"
+1556078401412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556078401412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556078401412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556078404284	Marionette	INFO	Listening on port 1840
+1556078404310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: resource://devtools/client/framework/devtools.js, line 702: TypeError: inspector.selection is undefined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.47359601101071136, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5582095713389212, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.657701270891407, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.13733235621503093, line 1: SyntaxError: expected expression, got '<'
+1556078576953	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.Pn2uUEIgJ9Y6"
+1556078578486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556078578487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556078578487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556078583122	Marionette	INFO	Listening on port 2366
+1556078583398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 21020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8092, Chrome_ChildThread] WARNING: pipe e1556078644436	Marionette	INFO	Stopped listening on port 2366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22924
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556078720671	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.O1pj5oK5BpvX"
+*** You are running in headless mode.
+1556078722093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556078722094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556078722094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556078724433	Marionette	INFO	Listening on port 2747
+1556078724803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5148075476095851, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.1722167452055119, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556078946898	Marionette	INFO	Stopped listening on port 2747
+[Child 17128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Child 27248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27248, Chrome_ChildThread] WARNING: pipe erro[Parent 3328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556079011818	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.USBaCDpYE7FY"
+1556079013138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079013138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079013139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079015768	Marionette	INFO	Listening on port 3469
+1556079016187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.5028592918009748, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.11614738910278755, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.4848897101851276, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.18241138070995855, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.643282473518452, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.424077469823847, line 1: SyntaxError: expected expression, got '<'
+[Parent 18000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556079302923	Marionette	INFO	Stopped listening on port 3469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 25484
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556079341437	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.yZfJP6KVGnaA"
+*** You are running in headless mode.
+1556079342883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079342883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079342884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079345062	Marionette	INFO	Listening on port 4446
+1556079345504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.9616653457653962, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.4377766216340464, line 1: SyntaxError: expected expression, got '<'
+1556079510627	Marionette	INFO	Stopped listening on port 4446
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556079562863	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.6tqgFCNOSgxL"
+*** You are running in headless mode.
+1556079564181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079564181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079564181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079566799	Marionette	INFO	Listening on port 5070
+1556079567228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8146598170359043, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8688062587405567, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.014873511556300567, line 1: SyntaxError: expected expression, got '<'
+1556079853159	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.mZWy5jvjdzRL"
+1556079854588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079854588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079854589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079858590	Marionette	INFO	Listening on port 6007
+1556079858711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556079861185	Marionette	INFO	Stopped listening on port 6007
+[Parent 988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10872, Chrome_ChildThread] WA[GPU 18120, Chrome_ChildT
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556079905333	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.nYlRf08EzfxJ"
+1556079906524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556079906524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556079906524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556079909329	Marionette	INFO	Listening on port 6139
+1556079909798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556079940591	Marionette	INFO	Stopped listening on port 6139
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 10
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+788
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556080209153	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.6b817YTZifjv"
+1556080210226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080210226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080210226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080212933	Marionette	INFO	Listening on port 7034
+1556080213112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556080243368	Marionette	INFO	Stopped listening on port 7034
+[Parent 23988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15644, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556080272019	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.6MXDPCZNDNcQ"
+1556080272994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080272994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080272994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080275734	Marionette	INFO	Listening on port 7250
+1556080275877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1556080331699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.08723930586263795, line 1: SyntaxError: expected expression, got '<'
+[Child 19028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3404, Chrome_ChildThread] WARNING:1556080336623	Marionette	INFO	Stopped listening on port 7250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15392, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556080346309	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.wrBWPfGAooLe"
+1556080347469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080347470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080347470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080351714	Marionette	INFO	Listening on port 7542
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+1556080458127	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.tU0DBhuuiI9Y"
+1556080459343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080459344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080459344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080463727	Marionette	INFO	Listening on port 7763
+1556080464284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 7404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[d/build/src/ipc/Chilchromiud 23380,m/sr Chrc/chrome/common/ipc_chaomennel_win.cc, line 3_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/1556080479120	Marionette	INFO	Stopped listening on port 7763
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556080486876	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.uS17V4kjZDvg"
+1556080488233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080488233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080488233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080492376	Marionette	INFO	Listening on port 7882
+1556080492447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 17428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12668, Chrome_ChildThread] WARNING: pipe error1556080504502	Marionette	INFO	Stopped listening on port 7882
+[GPU 15780
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556080512140	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.8KDgyTgKA5VX"
+1556080513575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080513576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080513576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080517729	Marionette	INFO	Listening on port 7994
+1556080517766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 8564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[Ccommon/ipc_channel_win.cc, line 332
+hild 16184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556080524594	Marionette	INFO	Stopped listening on port 7994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556080564013	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.OglL3hwfCLKX"
+*** You are running in headless mode.
+1556080565383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080565383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080565383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080567678	Marionette	INFO	Listening on port 8155
+1556080567885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.23177899095149423, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.41818926986251226, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.7634347457589025, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.45294208272533654, line 1: SyntaxError: expected expression, got '<'
+1556080778202	Marionette	INFO	Stopped listening on port 8155
+[Child 16160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 11060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 28724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2871556080952844	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.kFUsZDd1CxDQ"
+*** You are running in headless mode.
+1556080954213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556080954214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556080954214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556080957282	Marionette	INFO	Listening on port 9237
+1556080957309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8564357892178234, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6382631804291374, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.16164594876447236, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.6046569741988059, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+1556081213901	Marionette	INFO	Stopped listening on port 9237
+[Child 31232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 31232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1556081285663	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.cHjnzLuAmyfa"
+*** You are running in headless mode.
+1556081287033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556081287034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556081287034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556081289438	Marionette	INFO	Listening on port 10214
+1556081289644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 337: NS_ERROR_NOT_INITIALIZED: 
+1556081310011	mozrunner::runner	INFO	Running command: "D:\\liweimo\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\liweimo\\AppData\\Local\\Temp\\rust_mozprofile.3DLBSLw5bjy1"
+*** You are running in headless mode.
+1556081311356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556081311356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556081311356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556081314941	Marionette	INFO	Listening on port 10314
+1556081315068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.692636228112262, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.032945738197117325, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.71691567098119, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.8408913344804547, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.4296133162487271, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport.weibo.com/visitor/visitor?a=restore&cb=restore_back&from=iframe&_rand=0.9973482440484173, line 1: SyntaxError: expected expression, got '<'
+1556081673207	Marionette	INFO	Stopped listening on port 10314
+[Child 20548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332

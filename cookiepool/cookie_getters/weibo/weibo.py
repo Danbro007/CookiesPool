@@ -8,6 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from cookiepool.YMD import YDMHttp
+from selenium.common.exceptions import ElementNotInteractableException, StaleElementReferenceException
 
 
 class WeiboCookie:
@@ -21,29 +22,35 @@ class WeiboCookie:
 
     def open(self):
         self.browser.get(self.url)
-        login_button = self.wait.until(EC.element_to_be_clickable((By.ID, "hd_login")))
-        login_button.click()
-        time.sleep(1)
-        username = self.wait.until(EC.presence_of_element_located((By.NAME, "loginname")))
-        password = self.wait.until(EC.presence_of_element_located((By.NAME, "password")))
-        username.send_keys(self.username)
-        time.sleep(1)
-        password.send_keys(self.password)
-        time.sleep(1)
-        submit_button = self.wait.until(EC.presence_of_element_located((By.CLASS_NAME, "login_btn")))
+        self.browser.delete_all_cookies()
         try:
+            login_button = self.wait.until(EC.element_to_be_clickable((By.ID, "hd_login")))
+            login_button.click()
+            time.sleep(1)
+            username = self.wait.until(EC.presence_of_element_located((By.NAME, "loginname")))
+            password = self.wait.until(EC.presence_of_element_located((By.NAME, "password")))
+            username.send_keys(self.username)
+            time.sleep(1)
+            password.send_keys(self.password)
+            time.sleep(1)
+        except Exception:
+            self.open()
+        try:
+            submit_button = self.wait.until(EC.presence_of_element_located((By.CLASS_NAME, "login_btn")))
             captcha_input_box = self.wait.until(EC.presence_of_element_located((By.NAME, "door")))
+            # time.sleep(10)
             captcha_num = self.parse_captcha()
             print(captcha_num)
             captcha_input_box.send_keys(captcha_num)
-
+            submit_button.click()
+        except (TimeoutException, StaleElementReferenceException):
+            self.open()
         except Exception as e:
             print(e)
             pass
-        submit_button.click()
         if self.is_captcha_error():
+            print("验证码解析错误,重新登录。")
             self.open()
-
 
     def get_screenshot(self):  # 获得验证码的截图
         screenshot = self.browser.get_screenshot_as_png()  # 截图用png截取
@@ -59,7 +66,6 @@ class WeiboCookie:
         return top, bottom, left, right
 
     def get_image(self):  # 获取验证码截图
-        print("正在获取验证码图片")
         top, bottom, left, right = self.get_position()
         screenshot = self.get_screenshot()
         captcha = screenshot.crop((left, top, right, bottom))  # 截取的图片
@@ -73,17 +79,24 @@ class WeiboCookie:
         cid, result = self.yundama.decode(CAPTCHA_DIR, CAPTCHA_CODETYPE, PARSE_CAPTCHA_TIMEOUT)
         return result
 
-    def is_captcha_error(self):
+    def is_switch_successful(self):
         try:
-            return bool(WebDriverWait(self.browser, 5).until(EC.text_to_be_present_in_element((By.CLASS_NAME, "login_error_tips"), "输入的验证码不正确")))
+            bool(self.wait.until(EC.presence_of_element_located((By.CLASS_NAME, "pms"))))
         except TimeoutException:
             return False
+
+    def is_captcha_error(self):
+        try:
+            return bool(WebDriverWait(self.browser, 5).until(
+                EC.text_to_be_present_in_element((By.CLASS_NAME, "login_error_tips"), "输入的验证码不正确")))
+        except TimeoutException:
+            return False
+
     def get_cookie(self):
         return self.browser.get_cookies()
 
     def is_password_error(self):
         try:
-
             return WebDriverWait(self.browser, 5).until(
                 EC.text_to_be_present_in_element((By.CLASS_NAME, "login_error_tips"), "登录名或密码错误"))
         except TimeoutException:
@@ -105,10 +118,17 @@ class WeiboCookie:
                 "content": "用户名或者密码错误"
             }
         if self.login_successful():
-            return {
-                "status": 1,
-                "content": self.get_cookie()
-            }
+            self.browser.get("https://weibo.cn/")
+            if self.is_switch_successful:
+                cookies = self.get_cookie()
+                self.browser.delete_all_cookies()
+                return {
+                    "status": 1,
+                    "content": cookies
+                }
+            else:
+                self.main()
+
         else:
             return {
                 "status": 3,

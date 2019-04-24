@@ -27,7 +27,8 @@ class CookieGenderator:
     def process_cookies(self, cookies):
         dict = {}
         for cookie in cookies:
-            dict[cookie["name"]] = cookie["value"]
+            if cookie["name"] == "SUB":
+                dict["SUB"] = cookie["value"]
         return dict
 
     def run(self):
@@ -43,7 +44,6 @@ class CookieGenderator:
                     print("成功获取到用户%s的cookies" % username)
                     self.cookie_db.set(username, json.dumps(cookies))
                     print("保存用户%s的cookies成功!" % username)
-                    self.browser.delete_all_cookies()
                 elif result["status"] == 2:
                     if self.account_db.delete(username):
                         print("账号%s删除成功" % username)

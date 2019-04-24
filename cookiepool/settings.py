@@ -4,8 +4,11 @@ import os
 LOGIN_URL_MAP = {
     'weibo': 'http://my.sina.com.cn/profile/unlogin/'
 }
+GENDERATOR_URL_MAP = {
+    "weibo":""
+}
 # cookies测试url映射#
-TEST_URL_MAP = {'weibo': 'https://m.weibo.cn/'}
+TEST_URL_MAP = {'weibo': 'https://weibo.cn'}
 # cookies测试组件#
 TESTER_MAP = {"weibo": "WeiboValidTester"}
 # cookies获取组件#
